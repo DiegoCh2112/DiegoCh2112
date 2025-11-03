@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Diego+Ch%C3%A1vez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Diego+Chavez" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,4 +15,4 @@
 ### 📬 Contáctame
 - 📧 Email: chavezzevallosdiego@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/diego-chavez-zevallos-42b46b1ba
-- WhatssApp: +51 967417886
+- 📱 WhatssApp: +51 967417886
