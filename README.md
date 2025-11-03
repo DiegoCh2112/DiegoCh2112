@@ -1,7 +1,7 @@
 ## 👋 Hola, Soy Diego Chávez
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/53f01cc6-cdb7-435c-9013-7751e13ae509" alt="Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Diego+Ch%C3%A1vez;Frontend+Developer;Apasionado+por+la+tecnolog%C3%ADa+🚀" alt="Typing SVG" />
 </p>
 
 ### 🚀 Sobre mí
