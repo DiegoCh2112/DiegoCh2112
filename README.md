@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hola, Soy Diego Chávez
 
-<!--
-**DiegoCh2112/DiegoCh2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53f01cc6-cdb7-435c-9013-7751e13ae509" alt="Banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🎓 Recién egresado de Ingeniería de Software  
+- 💻 Desarrollador Frontend con experiencia en **Angular**  
+- ☕ Conocimientos en **Java** y 🐍 **Python**  
+- 🌱 Siempre aprendiendo y mejorando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Contáctame
+- 📧 Email: *tuemail@example.com*  
+- 💼 LinkedIn: *tu-linkedin*  
+- 🌐 Portafolio: *tu-portfolio.com*
